@@ -8,4 +8,4 @@ Contents:
 2D column buckling optimisation. Diameter and thickness of tube is optimised to give minimum weight, subject to yield and buckling stress constraints.
 
 
-![image](column buckling convergence.png)
+![screenshot](column buckling convergence.png)
